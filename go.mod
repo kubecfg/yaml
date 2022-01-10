@@ -1,4 +1,4 @@
-module github.com/mkmik/yaml/v2
+module github.com/kubecfg/yaml/v2
 
 go 1.15
 
